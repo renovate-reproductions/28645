@@ -1,0 +1,1 @@
+# renovate-clobbers-over-ratchet-comment
